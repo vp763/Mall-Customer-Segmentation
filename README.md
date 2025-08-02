@@ -11,7 +11,7 @@ This project uses a popular dataset from Kaggle containing information on 200 ma
 * `Annual Income (k$)`
 * `Spending Score (1-100)`
 
-**Link:** `[You can add the link to the dataset here]`
+**Link:** `(https://raw.githubusercontent.com/vp763/Mall-Customer-Segmentation/refs/heads/main/Mall_Customers.csv)`
 
 ---
 
